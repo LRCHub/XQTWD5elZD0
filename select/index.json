@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "きみのためのうた / 可不",
+  "base_artist": "内緒のピアス",
+  "createdAt": "2026-03-29T06:13:11.044961Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみのためのうた",
+      "artist": "内緒のピアス",
+      "has_synced": false,
+      "path": "select/pl_01_きみのためのうた_内緒のピアス.txt"
+    }
+  ]
+}
